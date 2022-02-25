@@ -3,6 +3,6 @@ My name is Roni, and i'm a 17yr old programmer. I enjoy making small programs th
 
 # I mainly coded in: <img src="" width="30px">
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=PYTHON&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=C#&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VB.Net-informational?style=flat&logo=C#&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VB.Net-informational?style=flat&logo=VB.Net&logoColor=white&color=2bbc8a)
