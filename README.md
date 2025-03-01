@@ -21,11 +21,10 @@ Bridging healthcare and technology through innovative solutions, also dabble in 
 
 ---
 
-### 📈 Development Activity
+## 📊 Development Activity
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xr0ni&show_icons=true&count_private=true&line_height=24&hide=prs,issues&theme=transparent">
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr0ni&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xr0ni&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr0ni&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=3">
 
 <br clear="both">
 
