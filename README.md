@@ -29,11 +29,13 @@ Bridging healthcare and technology through innovative solutions
 
 <br clear="both">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xr0ni&color=blueviolet&style=flat)
-
 ---
 
 ### 🔭 Currently Exploring
 - Medical tech applications
 - Cloud-native architectures
 - Performance optimization
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=xr0ni&color=blueviolet&style=flat)
