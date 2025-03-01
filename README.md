@@ -1,5 +1,3 @@
-# 👨⚕️🧑💻 Hey, I'm Jax 
-
 **Medical Student** | **Self-Taught Developer** | **Tech Explorer**
 
 Bridging healthcare and technology through innovative solutions
