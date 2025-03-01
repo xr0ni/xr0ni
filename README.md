@@ -23,13 +23,13 @@ Bridging healthcare and technology through innovative solutions
 
 ### 📈 Development Activity
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xr0ni&show_icons=true&theme=radical">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr0ni&layout=compact">
 
 <br clear="both">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=xr0ni&color=blueviolet&style=flat)
 
 ---
 
