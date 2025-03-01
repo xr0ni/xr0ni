@@ -1,33 +1,41 @@
-# 👋 Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 👨⚕️🧑💻 Hey, I'm Jax 
 
-**Hi there! I'm Roni**, a 19-year-old passionate programmer studying medicine & surgery! 🛠️
+**Medical Student** | **Self-Taught Developer** | **Tech Explorer**
 
----
-
-## 🚀 Tech Stack
-
-Here are the languages I work with daily:
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+Bridging healthcare and technology through innovative solutions
 
 ---
 
-## 📬 Let's Connect
+### 🛠️ Tech Arsenal
 
-Connect with me via:
+![](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@rr4r-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rr4r)
-[![GitHub](https://img.shields.io/badge/GitHub-Roni-181717?style=flat&logo=github&logoColor=white)](https://github.com/xr0ni)
-
----
-
-## 🎯 Current Focus
-
-![Instagram Tools](https://img.shields.io/badge/Open_Source-Contributions-blueviolet?style=flat)
-![Any other tools that pique my interest](https://img.shields.io/badge/Automation-Tools-2bbc8a?style=flat)
+**Tools:** VS, VSCode, Heroku, Firebase
 
 ---
 
-![](https://komarev.com/ghpvc/?username=xr0ni&color=blueviolet&style=flat-square)  <!-- Replace with your GitHub username -->
+### 🌐 Connect & Collaborate
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/xr0ni)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://instagram.com/rr4r)
+
+---
+
+### 📈 Development Activity
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact">
+
+<br clear="both">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+
+---
+
+### 🔭 Currently Exploring
+- Medical tech applications
+- Cloud-native architectures
+- Performance optimization
