@@ -1,6 +1,6 @@
 **Medical Student** | **Self-Taught Developer** | **Tech Explorer**
 
-Bridging healthcare and technology through innovative solutions
+Bridging healthcare and technology through innovative solutions, also dabble in a few personal hobbies.
 
 ---
 
@@ -10,7 +10,7 @@ Bridging healthcare and technology through innovative solutions
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 
-**Tools:** VS, VSCode, Heroku, Firebase
+**Tools:** VS, VSCode, MongoDB
 
 ---
 
