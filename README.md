@@ -17,7 +17,6 @@ Bridging healthcare and technology through innovative solutions, also dabble in 
 ### 🌐 Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/xr0ni)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://instagram.com/rr4r)
 
 ---
 
