@@ -10,13 +10,14 @@ Bridging healthcare and technology through innovative solutions, also dabble in 
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 
-**Tools:** VS, VSCode, MongoDB
+**Tools:** VS, VSCode
 
 ---
 
 ### 🌐 Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/xr0ni)
+[![Telegram](https://img.shields.io/badge/-GitHub-181717?logo=telegram)](https://t.me/beserk)
 
 ---
 
@@ -30,6 +31,8 @@ Bridging healthcare and technology through innovative solutions, also dabble in 
 ---
 
 ### 🔭 Currently Exploring
+- Reverse engineering APKs, IPAs
+- SSL bypassing APKs, IPAs
 - Medical tech applications
 - Cloud-native architectures
 - Performance optimization
