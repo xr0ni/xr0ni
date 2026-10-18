@@ -17,7 +17,7 @@ Bridging healthcare and technology through innovative solutions, also dabble in 
 ### 🌐 Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/xr0ni)
-[![Telegram](https://img.shields.io/badge/-GitHub-181717?logo=telegram)](https://t.me/beserk)
+[![Telegram](https://img.shields.io/badge/-Telegram-181717?logo=telegram)](https://t.me/beserk)
 
 ---
 
