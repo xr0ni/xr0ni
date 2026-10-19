@@ -1,42 +1,38 @@
-**Medical Student** | **Self-Taught Developer** | **Tech Explorer**
+<p align="center">
+  <img src="./header.svg" width="600" alt="roni: ios tweaks and reverse engineering">
+</p>
 
-Bridging healthcare and technology through innovative solutions, also dabble in a few personal hobbies.
+```console
+$ whoami
+roni
 
----
+$ cat about
+i love reverse engineering ios ipas,  android apks and tear them apart to see how they work.
+dylibs, hooks, private apis. if it runs on a phone, i want to know what it's doing.
+```
 
-### 🛠️ Tech Arsenal
+### `$ ls skills`
 
-![](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+```text
+ios                objective-c · theos / logos · dylib injection · uikit
+jailbreak          dopamine · trollstore · rootless · arm64 / arm64e
+reversing          private mobile + web apis · traffic analysis · request replay
+python, golang     automation · threading · proxies · sessions · pillow
+backend            node · express · webhooks · crypto checkout
+```
 
-**Tools:** VS, VSCode
+### `$ ls projects`
 
----
+```text
+Snapchat v14.28.1        · SSL (gRPC) bypass
+TikTok v47.1.4           · SSL bypass, x-argus x-gorgon full offline reproduction
+Threads v450.0.0.31      · SSL bypass
+Instagram  v450.0.0.31   · SSL bypass
+```
 
-### 🌐 Connect & Collaborate
+### `$ ls contact`
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/xr0ni)
-[![Telegram](https://img.shields.io/badge/-Telegram-181717?logo=telegram)](https://t.me/beserk)
-
----
-
-## 📊 Development Activity
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xr0ni&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr0ni&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=3">
-
-<br clear="both">
-
----
-
-### 🔭 Currently Exploring
-- Reverse engineering APKs, IPAs
-- SSL bypassing APKs, IPAs
-- Medical tech applications
-- Cloud-native architectures
-- Performance optimization
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=xr0ni&color=blueviolet&style=flat)
+```text
+telegram   @beserk    https://t.me/beserk
+github     @xr0ni     https://github.com/xr0ni
+```
